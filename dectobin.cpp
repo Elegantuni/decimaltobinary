@@ -30,11 +30,6 @@ if(data1 < 0)
 	data4[0] = -num2;
 }
 
-	for(int i = 0; i < count; i++)
-	{
-		cout << data4[i] << endl;
-	}
-
 if(data1 >= 0)
 {
 	for(int i = 0; i < count; i++)
