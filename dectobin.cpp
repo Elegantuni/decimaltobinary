@@ -32,7 +32,9 @@ if(data1 < 0)
 
 if(data1 >= 0)
 {
-	for(int i = 0; i < count; i++)
+	data3[0] = 0;
+	
+	for(int i = 1; i < count; i++)
 	{
 		data3[i] = remainder1 / data4[i];
 
