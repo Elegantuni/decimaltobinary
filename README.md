@@ -3,9 +3,9 @@ Converts to signed binary numbers<br />
 <br />
 Will work on 32 bit binary numbers and lower <br />
 <br />
-If you get a answer with anything other than 0 or 1 the number you entered isn't valid. <br />
+gmpdectobin will work on larger then 32 bit binary numbers <br />
 <br />
-If this is implemented in python you can use greater than 32 bit binary numbers <br />
+If you get a answer with anything other than 0 or 1 the number you entered isn't valid. <br />
 <br />
 Example usage:<br />
 Convert 1 to 32 bit binary number and store in int buffer1[32]: <br />
